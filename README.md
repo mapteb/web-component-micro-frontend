@@ -16,7 +16,7 @@ npm install
 
 npm run build  << the dist folder should have a new exported my-widget.iife.js file >>
 
-npm run dev << accessing http://localhost:8081 should display: "my-widget waiting for my-custom-event: " >>
+npm run dev << accessing http://localhost:8081 should display: "my-widget micro-frontend waiting for my-custom-event: " >>
 
 
 
