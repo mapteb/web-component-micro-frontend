@@ -12,7 +12,7 @@ export class MyWidget extends HTMLElement {
 		const customEvent = e as CustomEvent<{ message: string }>;
 		this.innerHTML += `<p>Received: ${customEvent.detail.message}</p>`;
 	  });
-      this.innerHTML +=	`my-widget waiting for my-custom-event: `;  
+      this.innerHTML +=	`my-widget micro-frontend waiting for my-custom-event: `;  
 	}
 }
 
