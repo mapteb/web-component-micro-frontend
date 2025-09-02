@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a helloworld web component nodejs/vite/express web app. When run, serves as a micro frontend that cab be embedded in an external [main app](https://github.com/mapteb/main-app-with-micro-frontend?tab=readme-ov-file).
+This is a helloworld web component nodejs/vite/express web app. When run, serves as a micro frontend that cab be embedded in an external [main app](https://github.com/mapteb/main-app-with-micro-frontend).
 
 ## Usage
 
