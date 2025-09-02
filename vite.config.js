@@ -10,4 +10,8 @@ export default defineConfig({
       formats: ['iife'], // IIFE is best for browser usage
     },
   },
+  test: {
+    environment: 'jsdom',
+    globals: true
+  },  
 });
