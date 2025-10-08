@@ -1,0 +1,1 @@
+(function(){"use strict";class e extends HTMLElement{constructor(){super()}connectedCallback(){document.addEventListener("cartUpdated",t=>{const n=t;this.innerHTML+=`<p>Received: ${n.detail.message}</p>`}),this.innerHTML+="Cart "}}customElements.define("my-widget",e)})();
