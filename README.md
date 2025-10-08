@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a helloworld style nodejs/vite web component app. When built and run, serves a micro frontend as a static resource that cab be embedded in an external web app like [main app](https://github.com/mapteb/main-app-with-micro-frontend). A demo of an external main app embedding this web component can be viewed [here](https://mapteb.github.io/main-app-with-micro-frontend/).
+This is a helloworld style nodejs/vite web component app. When built and run, serves a micro frontend as a static resource that can be embedded in an external web app like [main app](https://github.com/mapteb/main-app-with-micro-frontend). A demo of an external main app embedding this web component can be viewed [here](https://mapteb.github.io/main-app-with-micro-frontend/).
 
 ## Usage
 
